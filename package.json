@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/jetlime/RestoPolisDiscordBot/issues"
   },
-  "homepage": "https://github.com/jetlime/RestoPolisDiscordBot#readme"
+  "homepage": "https://github.com/jetlime/RestoPolisDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
 }
