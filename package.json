@@ -1,0 +1,25 @@
+{
+  "name": "restopolisdicordbot",
+  "version": "1.0.0",
+  "description": "A Discord Bot sending the canteen menu every day at the same on a discord server, the message will act as a poll using two different emojis attached to the message (house or lab) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetlime/RestoPolisDiscordBot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "canteen",
+    "menu"
+  ],
+  "author": "Paul Houssel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetlime/RestoPolisDiscordBot/issues"
+  },
+  "homepage": "https://github.com/jetlime/RestoPolisDiscordBot#readme"
+}
