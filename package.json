@@ -4,7 +4,7 @@
   "description": "A Discord Bot sending the canteen menu every day at the same on a discord server, the message will act as a poll using two different emojis attached to the message (house or lab) ",
   "main": "index.js",
   "scripts": {
-    "run": "node src/index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
