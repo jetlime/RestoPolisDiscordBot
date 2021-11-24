@@ -10,10 +10,8 @@ client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}`);
 });
 
-client.on('message', msg => {
-    if(msg.content === 'ping') {
-        msg.reply("Pong!")
-        msg.react('😄');
+client.on("message", msg => {
+    if (msg.content === "hey") {
+        msg.reply("hi there")
     }
-    
-});
+})
